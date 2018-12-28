@@ -3,7 +3,7 @@ language: go
 go:
   - tip
 
-go_import_path: git.fractalqb.de/fractalqb/ggja
+go_import_path: github.com/fractalqb/ggja
 
 before_install:
   - go get -t -v ./...

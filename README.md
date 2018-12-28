@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/fractalqb/ggja)](https://goreportcard.com/report/github.com/fractalqb/ggja)
 [![GoDoc](https://godoc.org/github.com/fractalqb/ggja?status.svg)](https://godoc.org/github.com/fractalqb/ggja)
 
-`import "git.fractalqb.de/fractalqb/ggja"`
+`import "github.com/fractalqb/ggja"`
 
 ---
 # Intro
